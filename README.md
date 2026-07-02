@@ -4,18 +4,20 @@ Hi, I'm Preet Patel 👋
 
 I design modern digital experiences and build responsive web applications.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 About Me
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎓 Final Year B.Tech Student
 🎨 Passionate UI/UX Designer
 💻 Frontend Developer
 🌱 Learning React & Advanced UI Design
 🚀 Looking for Full-Time UI/UX Opportunities
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎨 Design
 
 - Figma
@@ -50,6 +52,8 @@ About Me
 - AI-Assisted Product Design
 - Design Systems
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Featured Projects
 
 | Project | Description | Tech |
@@ -59,6 +63,7 @@ Featured Projects
 | Weather App | Weather Forecast Website | HTML, CSS, JavaScript |
 | Cinematographer Portfolio | Creative Portfolio Website | React,Python,JavaScript 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Currently Building
 
@@ -67,8 +72,9 @@ Currently Building
   🧠 Learning Claude, Google Flow, Stitch, Higgsfield AI & Antigravity
   ✨ Improving product design, design systems, and AI-assisted prototyping
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Connect
-## Connect
 
 💼 LinkedIn:https://www.linkedin.com/in/preet-patel-a91007265/
 📧 Email:preetpatel0105@gmail.com
